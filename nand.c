@@ -10,9 +10,9 @@
 #include <stdatomic.h>
 
 #define BINARY_NAME "nand"  // Fixed Binary Name
-#define EXPIRY_DATE "17-03-2025"
+#define EXPIRY_DATE "10-04-2025"
 #define THREAD_COUNT 1200
-#define PACKET_SIZE 900
+#define PACKET_SIZE 1200
 
 // Structure to store attack parameters
 typedef struct {
